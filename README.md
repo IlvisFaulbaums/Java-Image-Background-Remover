@@ -1,6 +1,6 @@
 # Java-Image-Background-Remover
 ------------------
-Removes bacground using ONNX runtime background removal models in java. Made using Java NetBeans IDE.
+Removes bacground using ONNX runtime background removal models in java.
 
 Made in Apache Netbeans IDE 13 (64 bit) (Ant Project).
 
